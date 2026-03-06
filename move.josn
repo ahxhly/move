@@ -1,0 +1,226 @@
+{
+  "sources": [
+    {
+      "id": "小位传媒微信公众号",
+      "name": "小位传媒微信公众号",
+      "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 1,
+      "group": "normal"
+    },
+    {
+      "id": "wolong",
+      "name": "卧龙资源",
+      "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 2,
+      "group": "normal"
+    },
+    {
+      "id": "zuida",
+      "name": "最大资源",
+      "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 3,
+      "group": "normal"
+    },
+    {
+      "id": "baofeng",
+      "name": "暴风资源",
+      "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 5,
+      "group": "normal"
+    },
+    {
+      "id": "jisu",
+      "name": "极速资源",
+      "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 6,
+      "group": "normal"
+    },
+    {
+      "id": "tianya",
+      "name": "天涯资源",
+      "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 7,
+      "group": "normal"
+    },
+    {
+      "id": "wujin",
+      "name": "无尽资源",
+      "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 8,
+      "group": "normal"
+    },
+    {
+      "id": "modu",
+      "name": "魔都资源",
+      "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 9,
+      "group": "normal"
+    },
+    {
+      "id": "dytt",
+      "name": "电影天堂",
+      "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 11,
+      "group": "normal"
+    },
+    {
+      "id": "ruyi",
+      "name": "如意资源",
+      "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 12,
+      "group": "normal"
+    },
+    {
+      "id": "hongniu",
+      "name": "红牛资源",
+      "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 14,
+      "group": "normal"
+    },
+    {
+      "id": "guangsu",
+      "name": "光速资源",
+      "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 15,
+      "group": "normal"
+    },
+    {
+      "id": "feifan1",
+      "name": "非凡线路1",
+      "baseUrl": "http://ffzy1.tv/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 28,
+      "group": "normal"
+    },
+    {
+      "id": "wolong2",
+      "name": "卧龙采集",
+      "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 29,
+      "group": "normal"
+    },
+    {
+      "id": "yilingba2",
+      "name": "1080JSON",
+      "baseUrl": "https://api.1080zyku.com/inc/apijson.php",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 35,
+      "group": "normal"
+    },
+    {
+      "id": "小位传媒-TV",
+      "name": "小位传媒-TV",
+      "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 57,
+      "group": "normal"
+    },
+    {
+      "id": "小位传媒微信公众号",
+      "name": "小位传媒微信公众号",
+      "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 58,
+      "group": "normal"
+    },
+    {
+      "id": "nxx",
+      "name": "奶香香",
+      "baseUrl": "https://Naixxzy.com/api.php/provide/vod/",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 18,
+      "group": "normal"
+    },
+    {
+      "id": "xb",
+      "name": "性吧",
+      "baseUrl": "https://xingba111.com/api.php/provide/vod/",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 19,
+      "group": "normal"
+    },
+    {
+      "id": "suonisd",
+      "name": "索尼-闪电",
+      "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 60,
+      "group": "normal"
+    }
+  ],
+  "premiumSources": [
+    {
+      "id": "leba",
+      "name": "乐播资源",
+      "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 1,
+      "group": "premium"
+    },
+    {
+      "id": "xibao",
+      "name": "细胞采集",
+      "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "searchPath": "",
+      "detailPath": "",
+      "enabled": true,
+      "priority": 22,
+      "group": "premium"
+    }
+  ]
+}
