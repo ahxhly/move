@@ -2,7 +2,7 @@
   "spider": "",
   "sites": [
     {
-      "key": "急速视频源（传媒）",
+      "key": "急速视频源",
       "name": "关注“小位传媒”微信公众号获取更多影视源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod",
