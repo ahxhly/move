@@ -2,7 +2,7 @@
   "spider": "",
   "sites": [
     {
-      "key": "急速视频源（传媒）",
+      "key": "急速视频源",
       "name": "关注“小位传媒”微信公众号获取更多影视源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -23,7 +23,7 @@
       "key": "小位传媒-TV",
       "name": "小位传媒-TV",
       "type": 1,
-      "api": "shturl.cc/WRItX4IFI6rpASiIn9vbUFaCW2py1inM",
+      "api": "https://shturl.cc/WRItX4IFI6rpASiIn9vbUFaCW2py1inM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -77,7 +77,7 @@
       "key": "魔都资源",
       "name": "魔都资源",
       "type": 1,
-      "api": "shturl.cc/JwNTS59LTtckLC787UewWZXwnwWkN0hO1",
+      "api": "https://shturl.cc/JwNTS59LTtckLC787UewWZXwnwWkN0hO1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -86,7 +86,7 @@
       "key": "电影天堂",
       "name": "电影天堂",
       "type": 1,
-      "api": "shturl.cc/pZQ50BRjqxqmnCHhQzPs7Z4wQmfV34AML1Fd",
+      "api": "https://shturl.cc/pZQ50BRjqxqmnCHhQzPs7Z4wQmfV34AML1Fd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -95,7 +95,7 @@
       "key": "如意资源",
       "name": "如意资源",
       "type": 1,
-      "api": "shturl.cc/WRItX4IFI6rpASiIn9vbUFaCW2py1inM",
+      "api": "https://shturl.cc/WRItX4IFI6rpASiIn9vbUFaCW2py1inM",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
