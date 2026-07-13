@@ -47,6 +47,15 @@
       "filterable": 1
     },
     {
+      "key": "小位影院47",
+      "name": "小位影院47",
+      "type": 1,
+      "api": "http://47.102.141.212:3000/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "暴风资源",
       "name": "暴风资源",
       "type": 1,
